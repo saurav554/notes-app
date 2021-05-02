@@ -10,6 +10,9 @@ Check out the article for more information.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 To run the app, simply run  
-`npm start`
+
+### `npm install`
+
+###`npm start`
 
 
